@@ -38,6 +38,7 @@ A curated list of awesome React Native UI/UX components and design resources.
 - [React Native Fast Image](https://github.com/DylanVann/react-native-fast-image) - Performant React Native image component
 - [React Native Image Picker](https://github.com/react-native-image-picker/react-native-image-picker) - A React Native module that allows you to select images from the device library or camera
 - [React Native Image Crop Picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, video, configurable compression, cropping
+- [React Native Text Avatar](https://github.com/hicay/react-native-text-avatar) - Gmail-style initials avatar with stable colors per name, multiple shapes and light/dark variants
 
 ## Forms & Inputs
 
